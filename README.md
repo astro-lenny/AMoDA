@@ -17,13 +17,20 @@ Comparing fitted polynomials of order 1 to 8 using different **information crite
 
 ## Exercise 4: Multivariate analysis
 ### Machine Learning for the $\tau^-\to\mu^-\mu^+\mu^-$ search at LHCb
-__Aim:__ Train a classifier using $1000$ data points to differentiate _signal_ (target $t=1$) and _background_ ($t=0$). 
+__Aim:__ Train a classifier using $1000$ data points to differentiate _signal_ (target $t=1$) and _background_ ($t=0$).
 * Using the Kolmogorov-Smirnov (KS) test to identify the best features to classify the data.
 * Using sklearn to train a Gaussian naive Bayes classifier
 * Using sklearn to train a gradient-boosted decision tree
 * Calculating and comparing their responses on training and test data
 * Checking for overtraining using KS test
 * Comparing the performance of the classifiers with their ROC curves
+
+## Exercise 5: Neural Networks
+### Classification with a Perceptron
+Implementation of a perceptron, training with LHCb data ($\tau^-\to\mu^-\mu^+\mu^-$). Test of the prediction with the ROC curve.
+### Multi-layer Perceptron with Backpropagation
+Building a feed-forward neural network with a hidden layer (mult-layer perceptron, MLP).
+
 
 
 ## Final project
