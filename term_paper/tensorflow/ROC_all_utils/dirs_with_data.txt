@@ -1,0 +1,16 @@
+stars_bins_16
+stars_flip_lay_4_bins_64
+stars_lay_16
+stars_lay_16_bins_16
+stars_lay_8
+stars_maf
+stars_maf_permute_lay_8
+stars_permute_lay_16_bins_16
+stars_permute_lay_32_bins_32
+stars_permute_lay_4_bins_128
+stars_permute_lay_4_bins_64
+stars_permute_lay_64
+stars_permute_lay_8
+stars_permute_lay_8_bins_64
+stars_realnvp
+stars_vanilla

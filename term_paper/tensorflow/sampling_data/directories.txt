@@ -1,0 +1,2 @@
+sampling_data/stars_flip_lay_4_bins_64/
+sampling_data/stars_permute_lay_4_bins_64/
