@@ -33,5 +33,5 @@ Building a feed-forward neural network with a hidden layer (mult-layer perceptro
 
 
 
-## Final project
-t.b.a.
+## Final project: Normalizing flows
+Some normalizing flows have been implemented with the aim to build a classifier for RR Lyrae stars. The best performance was given by a neural spline flow, while a masked autoregressive flow could also show good results.
